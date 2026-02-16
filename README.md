@@ -1,2 +1,2 @@
-# spirit-joy-sjoy
-Official repository for Spirit Joy (SJOY) Meme Token
+# spirit-joy-tjoy
+Official repository for Spirit Joy (TJOY) Meme Token
